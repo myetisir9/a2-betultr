@@ -11,6 +11,7 @@ while True:
     p=str(input("Enter your pasword"))
     hp=create_hash(p)
     if hp == myhsh:
+        print("Previously entered comments: ")
         li.append(c)
         i=0
         while i<len(li):
