@@ -14,9 +14,6 @@ def htmlify(title,text):
         </html>
     """ % (title,text)
     return page
-def static_file_callback(filename):
-    return static_file(filename, root='static')
-route('static/<filename:path>','GET', static_file_callback)
 
 
 
