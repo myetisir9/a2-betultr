@@ -1,11 +1,4 @@
-
-#####################################################################
-### Assignment skeleton
-### You can alter the below code to make your own dynamic website.
-### The landing page for assignment 3 should be at /
-#####################################################################
-
-from bottle import route, run, default_app, debug
+from bottle import route, run, default_app, debug,static_file,request
 
 def htmlify(title,text):
     page = """
@@ -19,13 +12,17 @@ def htmlify(title,text):
             %s
             </body>
         </html>
-
     """ % (title,text)
     return page
+def static_file_callback(filename):
+    return static_file(filename, root='static')
+route('static/<filename:path>','GET', static_file_callback)
+
+
 
 def index():
     return htmlify("My lovely website",
-                   "This is going to be an awesome website, when it is finished.")
+                   "Hey man!This is going to be an awesome website, when it is finished.")
 
 route('/', 'GET', index)
 
@@ -42,4 +39,3 @@ app = default_app()
 # The below code is necessary for running this bottle app standalone on your computer.
 if __name__ == "__main__":
   run()
-
