@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a7e01c-9d05-440a-be8f-3594181bd432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/a2-betultr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/static.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bottle_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/bottle_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/hash_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repl_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/repl_comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/animals.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/animals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bluewhale.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/bluewhale.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/documentaries.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/documentaries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/formenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/formenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/giraffe.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/giraffe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash_password.py">
+        <entry file="file://$PROJECT_DIR$/app.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bottle_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="107">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#81#0" expanded="true" />
               </folding>
@@ -66,19 +35,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../myapp.py">
+        <entry file="file://$PROJECT_DIR$/repl_comments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="5" selection-start-line="2" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repl_comments.py">
+        <entry file="file://$PROJECT_DIR$/../../Betul_py/asd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="170">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -105,6 +74,8 @@
         <option value="$PROJECT_DIR$/../../myapp.py" />
         <option value="$PROJECT_DIR$/form.tpl" />
         <option value="$PROJECT_DIR$/hash_password.py" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/../../Betul_py/asd.py" />
         <option value="$PROJECT_DIR$/bottle_app.py" />
       </list>
     </option>
@@ -122,7 +93,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/repl_comments.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Betul_py/asd.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -143,7 +114,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.asd">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a2-betultr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Betul_py" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Betul_py/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bottle_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="a2-betultr" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.asd" />
         <item itemvalue="Python.bottle_app" />
       </list>
     </recent_temporary>
@@ -186,13 +179,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18759936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.053285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4884547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,13 +222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../myapp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
@@ -242,17 +229,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repl_comments.py">
+    <entry file="file://$PROJECT_DIR$/form.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repl_comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" selection-start-line="2" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Betul_py/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bottle_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="107">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#81#0" expanded="true" />
           </folding>

@@ -17,8 +17,7 @@ def create_hash(password):
     pw_bytestring = password.encode()
     return sha256(pw_bytestring).hexdigest()
 
-p = "asdasd"
-h = create_hash(p)
+h ="b8a72255aedf3a01cb4aece302283ce9ef5df5c36290a93f324ab30af75c3be8"
 listComments = []
 
 @route('/postComment', method='POST')
