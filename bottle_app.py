@@ -27,12 +27,11 @@ listComments = []
 def do_comment():
     comment = request.forms.get('comment')
     password = request.forms.get('password')
-
     if create_hash(password) == h:
         listComments.append(comment)
-        return template('form', rows=listComments)  # tpl dosyası adı ve dosyaya gönderdiğimiz değişken
+        return template('form', rows=listComments)
     else:
-        return "<p>I am sorry,i can not let you to do that</p>"
+        return template('error')
 # This line makes bottle give nicer error messages
 debug(True)
 # This line is necessary for running on Heroku

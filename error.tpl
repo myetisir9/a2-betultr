@@ -97,10 +97,7 @@
                 </fieldset>
             </form>
             <div>
-                %for row in rows:
-                %i=1+rows.index(row)
-                <p>{{str(i) +"."+row}}</p>
-                %end
+                <p>I'm sorry, i can't let you do that.</p>
             </div>
         </div>
     </div>
