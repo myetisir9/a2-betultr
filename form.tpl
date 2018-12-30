@@ -2,7 +2,7 @@
 <head>
     <link rel="SHORTCUT ICON" href="forlogo.jpg" type="img/x-icon">
     <title>Comments</title>
-    <link rel="stylesheet" type="text/css" href="formenu.css">
+    <link rel="stylesheet" type="text/css" href="/static/formenu.css">
     <meta charset="UTF-8">
     <style>
         .button {
@@ -60,7 +60,7 @@
             font-weight: 150;
         }
         body {
-            background-image: url("backgroundhome.jpg");
+            background-image: url("/static/backgroundhome.jpg");
             background-size: cover;
             background-color: #cccccc;
         }
@@ -70,11 +70,11 @@
     <div style="width:100%; height:100%;">
         <div style="width: 100%; height: 20%;">
             <ul>
-                <li><a class="active" href="index.html">Home</a></li>
-                <li><a href="animals.html">Animals</a></li>
-                <li><a href="documentaries.html">Documentaries</a></li>
-                <li><a href="comments.html">Comments</a></li>
-                <li><img src="forlogo.jpg" title="logo"></li>
+                <li><a class="active" href="/static/index.html">Home</a></li>
+                <li><a href="/static/animals.html">Animals</a></li>
+                <li><a href="/static/documentaries.html">Documentaries</a></li>
+                <li><a href="/static/comments.html">Comments</a></li>
+                <li><img src="/static/forlogo.jpg" title="logo"></li>
             </ul>
         </div>
         <div style="width:40%; height:100%;">
