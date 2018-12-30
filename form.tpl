@@ -97,6 +97,7 @@
                 </fieldset>
             </form>
             <div>
+                <p>Previously Entered Comments:</p>
                 %for row in rows:
                 %i=1+rows.index(row)
                 <p>{{str(i) +"."+row}}</p>
