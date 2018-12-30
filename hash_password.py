@@ -32,3 +32,5 @@ if hsh1 == hsh2:
     print('Those were the same passwords')
 else:
     print('Those were different passwords')
+
+

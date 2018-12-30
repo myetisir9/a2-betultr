@@ -3,7 +3,7 @@ from hashlib import sha256
 def create_hash(password):
     pw_bytestring = password.encode()
     return sha256(pw_bytestring).hexdigest()
-mypw="asddsa"
+mypw="123"
 myhsh=create_hash(mypw)
 li=[]
 while True:
