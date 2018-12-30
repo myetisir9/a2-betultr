@@ -1,13 +1,16 @@
-from bottle import route, run, default_app, debug, static_file, request, template
+from bottle import route, run, default_app, debug, static_file, request, template , redirect
 from hashlib import sha256
-
-
-# staticfolder
+#css
 @route('/<filename>.css')
 def stylesheets(filename):
     return static_file('{}.css'.format(filename), root='static')
 
+#Heroku
+@route('/')
+def wrong():
+    redirect("/static/index.html")
 
+#static folder
 def static_file_callback(filename):
     return static_file(filename, root='static')
 route('/static/<filename>', 'GET', static_file_callback)
